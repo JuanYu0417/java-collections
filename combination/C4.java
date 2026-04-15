@@ -17,7 +17,7 @@ public class C4 {
            word.put(lowCaseWords, word.getOrDefault(lowCaseWords, 0) + 1);
        }
        System.out.println(word + ", " + words.length);
-       sc.close();A 
+       sc.close();
     }
 
 }
